@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defenitions>
+	<defenition>
+		<name>JavaScript</name>
+		<body>прототипно-ориентированный сценарный язык программирования.</body>
+	</defenition>
+	<defenition>
+		<name>function</name>
+		<body>определение функции при помощи оператора function очень похоже и имеет почти такое же синтаксис, как и определение при помощи синтаксической конструкции.</body>
+	</defenition>
+	<defenition>
+		<name>alert</name>
+		<body>выводит модальное окно с сообщением. Посетитель не сможет продолжить работу, пока не нажмет на кнопку "ОК" в модальном окне.</body>
+	</defenition>
+</defenitions>
