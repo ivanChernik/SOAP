@@ -7,6 +7,13 @@ public class DefenitionModel {
 	public DefenitionModel() {
 
 	}
+	
+	public DefenitionModel(String nameDefenition, String bodyDefenition) {
+		this.nameDefenition = nameDefenition;
+		this.bodyDefenition = bodyDefenition;
+	}
+	
+	
 
 	public String getNameDefenition() {
 		return nameDefenition;
